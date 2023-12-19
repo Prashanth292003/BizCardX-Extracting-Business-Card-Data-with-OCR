@@ -12,7 +12,7 @@ Streamlit
 
 easyOCR
 
-Postgres
+MYSQL
 
 # Procedure:
 
@@ -26,4 +26,4 @@ Use Streamlit to design a simple and intuitive user interface that guides users 
 
 Utilize the easyOCR library to extract text from the uploaded business card image. Process the image and extract the relevant information fields such as the company name, card holder name, etc.
 
-Establish a connection to the chosen database management system (Postgres). Set up the necessary tables or collections to store the extracted information and business card images.
+Establish a connection to the chosen database management system (MYSQL). Set up the necessary tables or collections to store the extracted information and business card images.
